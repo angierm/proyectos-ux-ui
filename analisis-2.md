@@ -21,10 +21,10 @@ Una manera de trabajar juntos:
 
 * Cuenta con una seccion donde puedes aprender a como trabajar en equipo y te plantea las mejores opciones para hacrelo en colaboracion, como hacer conversaciones y --revisiones de codigo-- donde te manda a otro enlace y resolver conflictos paso a paso; asi mismo con --aprende sobre la gestión de proyectos y --aprende sobre integraciones y que estas pestañas te llevan a otras y a otras hasta videos para que aprendas que son herramientas con tecnologias que te harán trabajar mejor.
 
-* también hay una seccion donde puedes comparar planes, precios y aprender a usarlo para los negocios, saber sobre    código de seguriadad y acceso controlado
+* También hay una seccion donde puedes comparar planes, precios y aprender a usarlo para los negocios, saber sobre    código de seguriadad y acceso controlado
 
 * Como integraciones hay una parte de donde puedes navegar examinando el mercado GitHub y experimentar para trabajar y conjugar distintas plataformas.
 
-* Mas bajo en la navegacion nos presenta a la comunidad que es parte de GitHub y conocer un poco mas de ella, desarrolladores de todo el mundo y todos sus proyectos; cuando entras a conocerlos el link te lleva a una pestaña donde puedes conocer su historial con github que es lo que han hecho como entraron a github y esa pagina te lleva a que navegues por mas empresas con trayectoria asi como sus cifras.
+* Más bajo en la navegacion nos presenta a la comunidad que es parte de GitHub y conocer un poco mas de ella, desarrolladores de todo el mundo y todos sus proyectos; cuando entras a conocerlos el link te lleva a una pestaña donde puedes conocer su historial con github que es lo que han hecho como entraron a github y esa pagina te lleva a que navegues por mas empresas con trayectoria asi como sus cifras.
 
-* Mas abajo te vulve a mostrar un formulario para que ingreses tus datos o te registres en GitHub; y muestra un menu con enlaces a sus recursos, empresas tienda patrocinios etc. 
+* En la parte baja vuelve a mostrar un formulario para que ingreses tus datos o te registres en GitHub; y muestra un menu con enlaces a sus recursos, empresas tienda patrocinios etc. 
