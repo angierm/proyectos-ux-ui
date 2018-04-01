@@ -1,6 +1,6 @@
 
 # WEBGithub
-* **Analis:** _Tipo Analis identificar los elementos de navegación de web Github_
+* **Análisis:** _Tipo Análisis: Identificar los elementos de navegación de web Github_
 
 ****
 
